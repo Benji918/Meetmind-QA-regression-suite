@@ -67,10 +67,16 @@
 			"value": "Thb29Yw-IiOWaD2RA1sutKxELYQYBNGNmbdgwsVbvmlzlUIFKli_pGSDFioBz-yo",
 			"type": "any",
 			"enabled": true
+		},
+		{
+			"key": "notification_id",
+			"value": "019e85cc-38f1-737a-b028-5fc2852149f1",
+			"type": "any",
+			"enabled": true
 		}
 	],
 	"color": 120,
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2026-06-01T23:50:50.781Z",
+	"_postman_exported_at": "2026-06-02T01:26:37.656Z",
 	"_postman_exported_using": "Postman/12.7.2"
 }
