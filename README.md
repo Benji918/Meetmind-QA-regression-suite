@@ -178,6 +178,14 @@ chmod +x run-tests.sh
 ./run-tests.sh
 ```
 
+**Windows (PowerShell):**
+```powershell
+newman run collections/collection.json `
+  --environment environments/environment.json `
+  --reporters cli,json `
+  --reporter-json-export results/report.json
+```
+
 ---
 
 ### Option 2 — Run Directly with Newman (CLI)
